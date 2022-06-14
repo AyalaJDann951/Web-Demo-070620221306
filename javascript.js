@@ -1,1 +1,1 @@
-
+document.write("Bienvenido user");
