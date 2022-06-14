@@ -1,1 +1,1 @@
-alert("Bienvenido user");
+document.write("Bienvenido user");
